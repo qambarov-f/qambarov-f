@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend Developer from Azerbaijan</h3>
 <img style="margin-left: 20px;" width="400" align="right" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*ZBj88N3MX0PelSZaHlrIfw.gif" alt="coding">
 
-- 🔭 I’m currently working on **UpTeach Agency**
+- 🔭 I’m currently working on **UpTech Agency**
 
 - 🌱 I’m currently learning **Node.js, Linux, React Native, Mongo.db, Express.js**
 
