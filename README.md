@@ -10,11 +10,11 @@
 />
 
 - 🔭 I’m currently working on **UpTeach Agency**
-- - 🌱 I’m currently learning **Node.js, Linux, React Native, Mongo.db, Express.js**
+- 🌱 I’m currently learning **Node.js, Linux, React Native, Mongo.db, Express.js**
 - 🤝 I’m looking for help with **Diagnosis**
- - 👨‍💻 All of my projects are available at [https://next-portfolio-qambarov-f.vercel.app/](https://next-portfolio-qambarov-f.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://next-portfolio-qambarov-f.vercel.app/](https://next-portfolio-qambarov-f.vercel.app/)
 - 💬 Ask me about **React.js, Node.js, Javascript**
-- - 📫 How to reach me **gambarovfeyruz@gmail.com**
+- 📫 How to reach me **gambarovfeyruz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
