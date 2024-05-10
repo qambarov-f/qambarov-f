@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/feyruz-gambarov-3136b5247" target="blank"
+  <a href="https://linkedin.com/in/feyruz-gambarov-3136b5247" target="blank" title="Linkedin"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
