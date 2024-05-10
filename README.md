@@ -52,7 +52,7 @@ with **Diagnosis** - 👨‍💻 All of my projects are available at
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Front-end</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -144,7 +144,7 @@ with **Diagnosis** - 👨‍💻 All of my projects are available at
 </a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
   <img
-    src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+    src="https://cdn.iconscout.com/icon/free/png-256/free-babel-282912.png"
     alt="babel"
     width="40"
     height="40"
@@ -153,7 +153,7 @@ with **Diagnosis** - 👨‍💻 All of my projects are available at
 
 <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
   <img
-    src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
+    src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_efb1b2ba6b11bd2a070628dc56b9fef5/canvasjs-charts.png"
     alt="canvasjs"
     width="40"
     height="40"
@@ -181,7 +181,7 @@ with **Diagnosis** - 👨‍💻 All of my projects are available at
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png"
       alt="express"
       width="40"
       height="40"
