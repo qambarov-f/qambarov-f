@@ -7,7 +7,7 @@
   style="margin-left: 20px"
   width="400"
   align="right"
-  src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*ZBj88N3MX0PelSZaHlrIfw.gif"
+  src="https://camo.githubusercontent.com/18f4c4d601c26d5674b5fcf6f08353867aab4394463638157855c5bac1c3b382/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f38642f33382f66613864333866323839343066623363613031393565323039366535353565312e676966"
   alt="coding"
 />
 
