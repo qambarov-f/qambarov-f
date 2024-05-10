@@ -3,7 +3,7 @@
 </a>
 <h1 align="center">Hi 👋, I'm Feyruz Gambarov</h1>
 <h3 align="center">A passionate Frontend Developer from Azerbaijan</h3>
-<img style="margin-left: 20px; border-radius:10px;" width="400" align="right" src="https://i.gifer.com/39Cg.gif" alt="coding">
+<img style="margin-left: 20px; border-radius:10px;" width="400" align="right" src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53_w200.gif" alt="coding">
 
 - 🔭 I’m currently working on **UpTech Agency**
 
