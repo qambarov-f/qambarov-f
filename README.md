@@ -1,6 +1,6 @@
 [![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95)](https://next-portfolio-qambarov-f.vercel.app/)
 <h1 align="center">Hi 👋, I'm Feyruz Gambarov</h1>
-<h3 align="center">A passionate Frontend Developer from Azerbaijan 🇦🇿</h3>
+<h3 align="center">Frontend Developer from Azerbaijan 🇦🇿</h3>
 <img
   style="margin-left: 20px"
   width="400"
