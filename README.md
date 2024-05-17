@@ -11,7 +11,7 @@
   alt="coding"
 />
 
-- 🔭 I’m currently working on **UpTeach Agency**
+- 🔭 I’m currently working on **UpTech Agency**
 - 🌱 I’m currently learning **Node.js, Linux, React Native, Mongo.db, Express.js**
 - 🤝 I’m looking for help with **Diagnosis**
 - 👨‍💻 All of my projects are available at [https://next-portfolio-qambarov-f.vercel.app/](https://next-portfolio-qambarov-f.vercel.app/)
